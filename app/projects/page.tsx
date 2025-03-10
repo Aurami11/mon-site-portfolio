@@ -6,37 +6,37 @@ const projects: Project[] = [
     title: "DJAMTALAH – Plateforme E-commerce",
     description: "Développement et déploiement d’une plateforme e-commerce intuitive et scalable.",
     link: "https://djamtalah.com",
-    status: "terminé", // Nouveau champ
+    status: "terminé",
   },
   {
     title: "Segmentation et Tarification du Risque Automobile à l’aide du Machine Learning",
     description: "Développement d’un modèle de segmentation des assurés en fonction de leur profil de risque.",
     link: "https://github.com/Aurami11/ml_tarification_classification",
-    status: "terminé", // Nouveau champ
+    status: "terminé", 
   },
   {
     title: "Tarification du Risque Incendie à l'aide du Machine Learning",
     description: "Modélisation de la fréquence des sinistres pour déterminer la prime pure d’un produit d'assurance incendie.",
     link: "https://challengedata.ens.fr/challenges/161",
-    status: "en cours", // Nouveau champ
+    status: "en cours", 
   },
   {
     title: "Analyse de l’Impact Météorologique sur les Sinistres Automobiles",
     description: "Modélisation des effets des conditions météorologiques sur la fréquence et la sévérité des sinistres.",
     link: "https://github.com/Aurami11/projet_impact-meteorologique-sinistres_academic",
-    status: "terminé", // Nouveau champ
+    status: "terminé", 
   },
   {
     title: "Modélisation et Prédiction du Coût Ultime des Sinistres Corporels",
     description: "Mise en place d’un modèle prédictif pour estimer le coût ultime des sinistres corporels.",
     link: "https://github.com/Aurami11/ml_prediction-sinistres-corporels",
-    status: "terminé", // Nouveau champ
+    status: "terminé", 
   },
   // {
   //   title: "Prédiction de variation de prix d'un actif basé sur les actualités",
   //   description: "Développement d'un modèle prédictif pour prédire la variation de prix d'un actif en analysant l'impact des actualités sur le marché financier.",
-  //   link: "https://github.com/moi/prediction-actif-actualites", // Remplace par le lien vers ton projet
-  //   status: "en cours", // Si tu veux, tu peux indiquer que c'est en cours de développement
+  //   link: "https://github.com/moi/prediction-actif-actualites",
+  //   status: "en cours",
   // },
 ];
 
